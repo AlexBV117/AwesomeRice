@@ -49,7 +49,7 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-beautiful.init(gears.filesystem.get_themes_dir() .. "nordic/theme.lua")
+beautiful.init("/home/alea/.config/awesome/Themes/nordic/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "konsole"
