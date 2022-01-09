@@ -1,0 +1,25 @@
+Dependencies
+============
+************
+w3m
+neofetch
+rofi
+qt5ct
+nitrogen
+compton
+awesomeWM
+
+Kde Themes
+============
+************
+-Global-Theme: Nordic-darker
+-Plasma Style: Nordic-darker
+-Application-Style:
+	-Application-Style: Breeze
+	-Window-Decorations: Nordic (although title bars are removed)
+-Colours: Nordic-Darker
+-Fornts URW Gothic L 10pt
+-Icons: Fluent
+-Cursors: Nordzy-cursors
+
+
